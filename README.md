@@ -13,6 +13,7 @@ Each problem has its own directory containing:
 | # | Problem | Difficulty | Category |
 |---|---------|------------|----------|
 | 1 | [Contains Duplicate](./contains_duplicate) | Easy | Array/Hash Table |
+| 2 | [Valid Anagram](./valid_anagram) | Easy | String/Hash Table |
 
 ## About Blind 75
 
