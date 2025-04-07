@@ -30,6 +30,3 @@ The Blind 75 is a list of 75 LeetCode questions compiled by a Facebook engineer 
 - Tree
 - Heap
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
