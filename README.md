@@ -14,6 +14,7 @@ Each problem has its own directory containing:
 |---|---------|------------|----------|
 | 1 | [Contains Duplicate](./contains_duplicate) | Easy | Array/Hash Table |
 | 2 | [Valid Anagram](./valid_anagram) | Easy | String/Hash Table |
+| 3 | [Two Sum](./two_sum) | Easy | Array/Hash Table |
 
 ## About Blind 75
 
