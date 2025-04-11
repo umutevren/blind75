@@ -1,12 +1,6 @@
 # Blind 75 LeetCode Solutions
 
-This repository contains my solutions to the "Blind 75" list of LeetCode problems. The Blind 75 is a curated list of the most frequently asked algorithm questions during technical interviews.
-
-## Structure
-
-Each problem has its own directory containing:
-- A README.md file with the problem description and explanation of the solution approach
-- A solution file (typically in Python)
+This repository contains my solutions to the "Blind 75" list of LeetCode problems. 
 
 ## Problems
 
