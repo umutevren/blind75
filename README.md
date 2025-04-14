@@ -10,6 +10,7 @@ This repository contains my solutions to the "Blind 75" list of LeetCode problem
 | 2 | [Valid Anagram](./valid_anagram) | Easy | String/Hash Table |
 | 3 | [Two Sum](./two_sum) | Easy | Array/Hash Table |
 | 4 | [Group Anagrams](./group_anagrams) | Medium | String/Hash Table |
+| 5 | [Best Time to Buy and Sell Stock](./best_time_to_buy_and_sell_stock) | Easy | Array |
 
 ## About Blind 75
 
