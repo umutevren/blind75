@@ -18,6 +18,7 @@ Each problem has its own directory containing:
 | 4 | [Group Anagrams](./group_anagrams) | Medium | String/Hash Table |
 | 5 | [Best Time to Buy and Sell Stock](./best_time_to_buy_and_sell_stock) | Easy | Array |
 | 6 | [Valid Parentheses](./valid_parentheses) | Easy | String/Stack |
+| 7 | [Reverse Linked List](./reverse_linked_list) | Easy | Linked List |
 
 ## About Blind 75
 
