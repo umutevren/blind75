@@ -1,6 +1,12 @@
 # Blind 75 LeetCode Solutions
 
-This repository contains my solutions to the "Blind 75" list of LeetCode problems. 
+This repository contains my solutions to the "Blind 75" list of LeetCode problems. The Blind 75 is a curated list of the most frequently asked algorithm questions during technical interviews.
+
+## Structure
+
+Each problem has its own directory containing:
+- A README.md file with the problem description and explanation of the solution approach
+- A solution file (typically in Python)
 
 ## Problems
 
@@ -11,6 +17,7 @@ This repository contains my solutions to the "Blind 75" list of LeetCode problem
 | 3 | [Two Sum](./two_sum) | Easy | Array/Hash Table |
 | 4 | [Group Anagrams](./group_anagrams) | Medium | String/Hash Table |
 | 5 | [Best Time to Buy and Sell Stock](./best_time_to_buy_and_sell_stock) | Easy | Array |
+| 6 | [Valid Parentheses](./valid_parentheses) | Easy | String/Stack |
 
 ## About Blind 75
 
