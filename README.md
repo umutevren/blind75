@@ -19,6 +19,7 @@ Each problem has its own directory containing:
 | 5 | [Best Time to Buy and Sell Stock](./best_time_to_buy_and_sell_stock) | Easy | Array |
 | 6 | [Valid Parentheses](./valid_parentheses) | Easy | String/Stack |
 | 7 | [Reverse Linked List](./reverse_linked_list) | Easy | Linked List |
+| 8 | [Climbing Stairs](./climbing_stairs) | Easy | Dynamic Programming |
 
 ## About Blind 75
 
