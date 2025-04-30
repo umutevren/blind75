@@ -20,6 +20,7 @@ Each problem has its own directory containing:
 | 6 | [Valid Parentheses](./valid_parentheses) | Easy | String/Stack |
 | 7 | [Reverse Linked List](./reverse_linked_list) | Easy | Linked List |
 | 8 | [Climbing Stairs](./climbing_stairs) | Easy | Dynamic Programming |
+| 9 | [Invert Binary Tree](./invert_binary_tree) | Easy | Tree |
 
 ## About Blind 75
 
